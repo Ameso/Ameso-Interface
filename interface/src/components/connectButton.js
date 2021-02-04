@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const StyledConnectButton = styled.button` 
-    font-family: 'Lato';
+    font-family: 'PT Sans';
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);

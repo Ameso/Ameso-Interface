@@ -7,7 +7,7 @@ const StyledHeader = styled.header`
   display: flex;
   flex-direction: row;
   border-bottom: 1px solid #e6e6e6;
-  padding: 1.5rem 1rem;
+  padding: 20px 30px;
 `
 
 const StyledNav = styled.nav`
@@ -20,7 +20,7 @@ const StyledNav = styled.nav`
 const StyledNavIcon = styled.div``
 
 const StyledNavItem = styled.div`
-  font-family: 'Lato';
+  font-family: 'PT Sans';
 `
 
 const StyledNavLeft = styled.div`
